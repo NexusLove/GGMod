@@ -20,8 +20,8 @@
 <p>StringLib.java类为luaj原String库编写方式的模板（不是我封装好的那个StringLib的源码），参考该编写方式可有效学习函数封装方法</p>
 <p>https://github.com/JealousCat/GGMod/blob/main/Function/StringLib.java</p>
 
-# 美化教程
-注：指对非函数库类功能或UI界面等进行更改，使得修改器使用体验更好，界面更美观
+# Beautification tutorial
+Note: Refers to making changes to non-function library functions or UI interfaces to make the modifier experience better and the interface more beautifulbbeautiful
 
 <p><a href="https://alywp.net/35mDO4">一、更改安装包包名，同时可以起到去除随机安装的作用</a></p>
 <p><a href="https://alywp.net/5bzBxRoW">二、更换修改器图标</a></p>
